@@ -113,7 +113,7 @@ A interface gráfica foi criada usando Java Swing e apresenta:
   - ✅ **Verificar jogo** - Verifica status e erros
   - 🏁 **Concluir** - Finaliza e valida o jogo
 
-![Interface do Sudoku](UISudoku.png)
+![Interface do Sudoku](src/resources/imagens/UISudoku.png)
 
 ## 🚀 Como Executar o Projeto
 
@@ -170,17 +170,10 @@ java -cp bin Main "0,0;4,false" "1,0;7,false" "2,0;9,true"........
 - **Persistência de estado** durante a sessão
 - **Interface adaptativa** para diferentes tamanhos de tela
 
-Este projeto demonstra um domínio sólido de Java, Swing, arquitetura de software e implementação de jogos lógicos!
+## 👤 Autor
 
-## **Resumo do que foi criado:**
+Desenvolvido por **Ariel França**.
 
-✅ **README completo** com todas as informações solicitadas
-✅ **Documentação técnica** detalhada
-✅ **Explicação das funcionalidades** de cada arquivo
-✅ **Instruções de execução** claras
-✅ **Referência à imagem** UISudoku.png
-✅ **Estrutura do projeto** organizada
-✅ **Tecnologias utilizadas** documentadas
+## 🤝 Contribuição
 
-Agora você tem uma documentação profissional e completa do seu projeto Sudoku! 🎉
-```
+Sinta-se à vontade para contribuir com este projeto! Sugestões, melhorias e pull requests são muito bem-vindos. Basta abrir uma issue ou enviar um PR para colaborar.
